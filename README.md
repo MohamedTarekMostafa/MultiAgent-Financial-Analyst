@@ -32,12 +32,11 @@ The project implements a **Multi-Agent Orchestration** pattern:
 ## 📸 Screenshots
 
 ### 1. User Interface (Streamlit)
-*Insert your UI screenshot here showing the NVIDIA analysis*
+*![WhatsApp Image 2025-12-31 at 11 17 46 PM](https://github.com/user-attachments/assets/8f018f9f-8752-408f-a832-47e0465b5c53)*
 
 ### 2. Agent Workflow (LangGraph)
-*Insert the graph image you shared earlier*
+*![WhatsApp Image 2025-12-31 at 10 51 10 PM](https://github.com/user-attachments/assets/0602004a-ce88-465c-a770-064a021c64a1)
 
-### 3. Trace Monitoring (Langfuse)
-*Insert a screenshot of a Langfuse trace showing the hand-off between agents*
+
 
 
