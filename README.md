@@ -23,7 +23,7 @@ The project implements a **Multi-Agent Orchestration** pattern:
 ## 🛠️ Tech Stack
 
 * **Orchestration**: LangChain & LangGraph
-* **LLM**: Google Gemini 1.5 Flash
+* **LLM**: Google Gemini 2.5 Flash
 * **Search**: Tavily AI
 * **Data**: Yahoo Finance (yfinance)
 * **Monitoring**: Langfuse
@@ -36,6 +36,7 @@ The project implements a **Multi-Agent Orchestration** pattern:
 
 ### 2. Agent Workflow (LangGraph)
 *![WhatsApp Image 2025-12-31 at 10 51 10 PM](https://github.com/user-attachments/assets/0602004a-ce88-465c-a770-064a021c64a1)
+
 
 
 
