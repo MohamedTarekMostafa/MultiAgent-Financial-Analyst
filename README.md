@@ -1,8 +1,8 @@
-# 📈 Multi-Agent Financial Analyst
+#  Multi-Agent Financial Analyst
 
 An advanced AI-powered financial research system built with **LangGraph** and **Gemini 2.5- Flash**. This project uses a **Supervisor-Worker architecture** to coordinate specialized agents for market data analysis and global news research.
 
-## 🧠 System Architecture
+##  System Architecture
 
 The project implements a **Multi-Agent Orchestration** pattern:
 
@@ -13,14 +13,14 @@ The project implements a **Multi-Agent Orchestration** pattern:
 
 
 
-## 🚀 Features
+##  Features
 
 * **Autonomous Delegation**: The Supervisor decides whether to check prices, search news, or both based on the user's intent.
 * **Contextual Memory**: Remembers specific user goals (e.g., "I have a $50k investment target") across the entire conversation.
 * **Real-time Observability**: Fully integrated with **Langfuse** for tracing, cost tracking, and monitoring agent hand-offs.
 * **Modern UI**: An interactive Chat interface built with **Streamlit**.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Orchestration**: LangChain & LangGraph
 * **LLM**: Google Gemini 2.5 Flash
@@ -29,13 +29,14 @@ The project implements a **Multi-Agent Orchestration** pattern:
 * **Monitoring**: Langfuse
 * **Frontend**: Streamlit
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1. User Interface (Streamlit)
 *![WhatsApp Image 2025-12-31 at 11 17 46 PM](https://github.com/user-attachments/assets/8f018f9f-8752-408f-a832-47e0465b5c53)*
 
 ### 2. Agent Workflow (LangGraph)
 *![WhatsApp Image 2025-12-31 at 10 51 10 PM](https://github.com/user-attachments/assets/0602004a-ce88-465c-a770-064a021c64a1)
+
 
 
 
