@@ -2,6 +2,9 @@
 
 An advanced AI-powered financial research system built with **LangGraph** and **Gemini 2.5- Flash**. This project uses a **Supervisor-Worker architecture** to coordinate specialized agents for market data analysis and global news research.
 
+### 1. Agent Workflow (LangGraph)
+*![WhatsApp Image 2025-12-31 at 10 51 10 PM](https://github.com/user-attachments/assets/0602004a-ce88-465c-a770-064a021c64a1)
+
 ##  System Architecture
 
 The project implements a **Multi-Agent Orchestration** pattern:
@@ -31,11 +34,10 @@ The project implements a **Multi-Agent Orchestration** pattern:
 
 ## Screenshots
 
-### 1. User Interface (Streamlit)
+### 2. User Interface (Streamlit)
 *![WhatsApp Image 2025-12-31 at 11 17 46 PM](https://github.com/user-attachments/assets/8f018f9f-8752-408f-a832-47e0465b5c53)*
 
-### 2. Agent Workflow (LangGraph)
-*![WhatsApp Image 2025-12-31 at 10 51 10 PM](https://github.com/user-attachments/assets/0602004a-ce88-465c-a770-064a021c64a1)
+
 
 
 
